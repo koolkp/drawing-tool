@@ -1,0 +1,10 @@
+
+ppython:S1542"NRename function "getHW" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Œœíâûÿÿÿÿ8‰²û¿‘,
+vpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ßıëêûÿÿÿÿ8ÒñÄÀ‘,
+opython:S1542"MRename function "getR" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘Ëü¶øÿÿÿÿ8ÅûˆÁ‘,
+kpython:S1542"NRename function "getCo" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ÿ‘»š8Éÿ€À‘,
+mpython:S1542"PRename function "setLine" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‰ÅÁ¯8îËŠÀ‘,
+tpython:S1542"RRename function "setCircle" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(íÂè®üÿÿÿÿ8‹–ˆÀ‘,
+rpython:S1542"PRename function "setRect" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³æ’›üÿÿÿÿ8ç—À‘,
+@python:S125"Remove this commented out code.(óƒÇ½ûÿÿÿÿ8à «Â‘,
+@python:S125"Remove this commented out code.(Ù¾ÄŠıÿÿÿÿ8¢õÀ‘,
